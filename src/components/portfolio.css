@@ -1,0 +1,8 @@
+.p-img {
+    width: 100%;
+    transition: all 15s ease-out;
+  }
+  
+  .p:hover .p-img {
+    transform: translateY(-90%);
+  }
